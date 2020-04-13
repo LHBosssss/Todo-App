@@ -78,7 +78,7 @@
                             <outlet property="delegate" destination="8a2-Vb-1tr" id="Uc6-L2-YTO"/>
                         </connections>
                     </tableView>
-                    <navigationItem key="navigationItem" title="Items" id="nga-vO-ldU">
+                    <navigationItem key="navigationItem" title="Items" largeTitleDisplayMode="always" id="nga-vO-ldU">
                         <barButtonItem key="rightBarButtonItem" systemItem="add" id="GZG-1l-OL4">
                             <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                             <connections>
